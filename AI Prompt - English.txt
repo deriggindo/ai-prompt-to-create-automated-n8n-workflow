@@ -1,0 +1,24 @@
+Act as an n8n expert.
+
+Create an n8n automation that builds a customized strategic alignment presentation for a client, based on their contracted modules and usage information recorded in a database spreadsheet.
+
+Target Audience:
+Customer Success Analyst
+
+Expected Result:
+A new Google Slides file featuring the client's information and a personalized action plan tailored to their specific characteristics.
+
+Tools Involved:
+Google Forms, Google Sheets, Google Drive, Google Slides, and Gmail
+
+Desired Workflow:
+
+Receive a new form response containing the Client ID and the Customer Success Analyst's email address.
+Query the customer database (spreadsheet) to retrieve the client's usage data using the Client ID.
+Send this information to an Artificial Intelligence engine to generate a personalized action plan.
+Receive the generated action plan details.
+Create a presentation (slides) from a master template and populate it with the client's information and the personalized action plan.
+Email the link to the generated presentation to the Customer Success Analyst.
+Important Rules: The action plan must be unique for each client and created according to their specific profile (e.g., modules contracted but unused, modules used effectively, low engagement requiring improvement, etc.).
+
+Explain which n8n nodes should be used and the operational logic of the workflow.
