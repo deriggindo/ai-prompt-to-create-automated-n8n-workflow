@@ -12,4 +12,4 @@ You can choose the prompt below according to your language and replace the infor
 
 In these examples, I asked AI to create an automated n8n workflow designed for Customer Success (CS) Analysts that generates personalized, AI-driven strategic alignment presentations in Google Slides based on customer usage data, contracted modules, and engagement metrics:
 - [IA Answer in English](automated-n8n-ai-prompt-for-cs/IA Answer - English.md)
-- [Resposta da IA em Português](/Resposta da IA - Português (BR).md)
+- [Resposta da IA em Português](2.2 Português(BR) - Resposta da IA.md)
