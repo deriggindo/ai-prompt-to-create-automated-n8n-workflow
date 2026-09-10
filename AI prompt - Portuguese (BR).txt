@@ -1,0 +1,24 @@
+Atue como um especialista em N8N.
+
+Crie uma automação no N8N que cria uma apresentação de alinhamento estratégico personalizada para um cliente conforme suas informações de módulos contratados e usabilidade registradas em uma planilha de base de dados.
+
+Público:
+Analista de Sucesso do Cliente
+
+Resultado esperado:
+Um novo arquivo do Google Apresentações com as informações do cliente e com um plano de ação personalizado de acordo com as informações do cliente.
+
+Ferramentas envolvidas:
+Google Forms, Google Sheets, Google Drive, Google Presentation e Gmail
+
+Fluxo desejado:
+1. Receber uma nova resposta do formulário contendo A ID do cliente e o email do Analista de Sucesso do Cliente
+2. Consultar a base de dados de clientes (planilha) e puxar os dados de usabilidade do cliente a partir da ID
+3. Enviar essas informações a uma inteligência artificial para que ela gere um plano de ação personalizado
+4. Receber as informações do plano de ação
+5. Gerar uma apresentação (slides) a partir de um modelo padrão e inserir as informações do cliente e o plano de ação personalizado
+6. Enviar o link dessa apresentação por email ao Analista de Sucesso do Cliente
+
+Regras importantes: o plano de ação deve ser diferente para cada cliente e deve ser criado de acordo com as características do cliente (qual módulo contrata e não utiliza, qual módulo utiliza bem, se o engajamento na plataforma está baixo e precisa aumentar, etc).
+
+Explique quais nós do N8N devem ser utilizados e a lógica de funcionamento do workflow.
